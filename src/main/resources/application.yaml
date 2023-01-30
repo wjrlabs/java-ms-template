@@ -1,1 +1,3 @@
-
+logging:
+  level:
+    ROOT: ${LOG_ROOT_LEVEL:DEBUG}
